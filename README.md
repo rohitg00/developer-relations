@@ -9,5 +9,5 @@ Contributions are very welcome! Please submit a PR by checking
 
 Event-Name | Website | Region
 ------------ | ------- | -------
-[DevRel Book Club] | https://developerrelations.com/event/a-city-is-not-a-computer | Remote
+[<>] | <link> | <>
 
